@@ -7,7 +7,7 @@ the model has been pretrained,the model file in [ckpt.pt](/out-shakespeare-char/
 
 the train datasets in [train.bin](/data/shakespeare_char/train.bin) and [val.bin](/data/shakespeare_char/val.bin)
 
-the environment requirments in requirements.txt[requirements.txt]
+the environment requirments in [requirements.txt](requirements.txt)
 
 to train the model , run code 'python train.py config/train_shakespeare_char.py'
 
