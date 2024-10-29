@@ -1,5 +1,5 @@
 # AI-Design-2H2024-Chenshi
-#Midterm project for AID-2H2024
+Midterm project for AID-2H2024
 
 using the training method from [NanoGPT-kaepathy](https://github.com/karpathy/nanoGPT)
 
