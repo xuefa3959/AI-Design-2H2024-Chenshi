@@ -11,7 +11,8 @@ the environment requirments in [requirements.txt](requirements.txt)
 
 to train the model , run code 'python train.py config/train_shakespeare_char.py'
 
-# to eavl it , run code 'python sample.py --out_dir=out-shakespeare-char',you will get the require sentence more than 10 sentences like 
+# to eavl it 
+run code 'python sample.py --out_dir=out-shakespeare-char',you will get the require sentence more than 10 sentences like 
 
     DUCHESS OF YORK:
     She shall see his pardon to take him withal.
