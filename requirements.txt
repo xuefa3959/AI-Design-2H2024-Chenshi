@@ -1,0 +1,8 @@
+python==3.9
+torch with cuda
+numpy
+transformers
+datasets
+tiktoken
+wandb
+tqdm
