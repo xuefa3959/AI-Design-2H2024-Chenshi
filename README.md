@@ -1,13 +1,13 @@
 # AI-Design-2H2024-Chenshi
 #Midterm project for AID-2H2024
 
-using the training method from NanoGpt-kaepathy https://github.com/karpathy/nanoGPT
+using the training method from [NanoGPT-kaepathy](https://github.com/karpathy/nanoGPT)
 
-the model has been pretrained,the model file in /out-shakespeare-char/ckpt.pt
+the model has been pretrained,the model file in [ckpt.pt](/out-shakespeare-char/ckpt.pt)
 
-the train datasets in /data/shakespeare_char/train.bin and /data/shakespeare_char/val.bin
+the train datasets in [train.bin](/data/shakespeare_char/train.bin) and [val.bin](/data/shakespeare_char/val.bin)
 
-the environment requirments in requirements.txt
+the environment requirments in requirements.txt[requirements.txt]
 
 to train the model , run code 'python train.py config/train_shakespeare_char.py'
 
